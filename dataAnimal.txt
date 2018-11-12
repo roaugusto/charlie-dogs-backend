@@ -1,0 +1,43 @@
+
+    {
+        "image": "http://www.filhotesonlinebh.com.br/system/app/webroot/img/produtos/1540846271.jpg",
+        "raca": "YorkShire",
+        "dtNasc": "23/10/2018",
+        "sexo": "Macho",
+        "valor": "1.000,00"
+    }
+    {
+        "image": "http://www.filhotesonlinebh.com.br/system/app/webroot/img/produtos/1540928812.jpg",
+        "raca": "Shih Tzu",
+        "dtNasc": "25/10/2018",
+        "sexo": "Macho",
+        "valor": "1.100,00"
+    }
+    {
+        "image": "http://www.filhotesonlinebh.com.br/system/app/webroot/img/produtos/1540652131.jpg",
+        "raca": "Maltes",
+        "dtNasc": "27/10/2018",
+        "sexo": "Femea",
+        "valor": "840,50"
+    }
+    {
+        "image": "http://www.filhotesonlinebh.com.br/system/app/webroot/img/produtos/1538593071.jpg",
+        "raca": "Pug",
+        "dtNasc": "20/10/2018",
+        "sexo": "Femea",
+        "valor": "1600,00"
+    }
+    {
+        "image": "http://www.filhotesonlinebh.com.br/system/app/webroot/img/produtos/1539721412.jpg",
+        "raca": "YorkShire",
+        "dtNasc": "20/10/2018",
+        "sexo": "Femea",
+        "valor": "1600,00"
+    }
+    {
+        "raca": "Beagle",
+        "image": "http://www.filhotesonlinebh.com.br/system/app/webroot/img/produtos/1541679235.jpg",
+        "dtNasc": "28/09/2018",
+        "sexo": "Femea",
+        "valor": "1.200,00"
+    }
