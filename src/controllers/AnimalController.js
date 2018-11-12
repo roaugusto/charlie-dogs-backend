@@ -85,6 +85,8 @@ module.exports = {
     async reset(req, res) {
 
         const animal = await Animal.updateMany( {}, { status: "A" });
+        const cart = await Cart.deleteMany({})
+
         return res.status(200).send(animal)
 
     }
